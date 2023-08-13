@@ -1,0 +1,26 @@
+2023-08-13 00:21:04,029 : INFO : Test_Meditab : test_login_01 : 24 : Testcase 'Initiated' for Meditab login page
+2023-08-13 00:21:04,029 : INFO : Test_Meditab : test_login_01 : 26 : Opening the browser
+2023-08-13 00:21:04,029 : INFO : Test_Meditab : test_login_01 : 30 : Fetching the URL
+2023-08-13 00:21:10,337 : INFO : Test_Meditab : test_login_01 : 33 : Entering the clinic
+2023-08-13 00:21:10,484 : INFO : Test_Meditab : test_login_01 : 35 : Entering the username
+2023-08-13 00:21:10,640 : INFO : Test_Meditab : test_login_01 : 37 : Entering the password
+2023-08-13 00:21:10,797 : INFO : Test_Meditab : test_login_01 : 39 : Clicking the login button
+2023-08-13 00:21:10,933 : INFO : Test_Meditab : test_login_01 : 42 : Checking for confirmation message
+2023-08-13 00:21:11,627 : INFO : Test_Meditab : test_login_01 : 44 : Alert: Invalid username or password
+2023-08-13 00:21:12,306 : INFO : Test_Meditab : test_login_01 : 48 : Closing the browser
+2023-08-13 00:21:12,307 : INFO : Test_Meditab : test_login_01 : 49 : 
+Testcase 'verified successfully' for invalid credentials alert
+
+2023-08-13 00:22:56,590 : INFO : Test_Meditab : test_login_01 : 24 : Testcase 'Initiated' for Meditab login page
+2023-08-13 00:22:56,591 : INFO : Test_Meditab : test_login_01 : 26 : Opening the browser
+2023-08-13 00:22:56,591 : INFO : Test_Meditab : test_login_01 : 30 : Fetching the URL
+2023-08-13 00:23:03,394 : INFO : Test_Meditab : test_login_01 : 33 : Entering the clinic
+2023-08-13 00:23:03,538 : INFO : Test_Meditab : test_login_01 : 35 : Entering the username
+2023-08-13 00:23:03,676 : INFO : Test_Meditab : test_login_01 : 37 : Entering the password
+2023-08-13 00:23:03,855 : INFO : Test_Meditab : test_login_01 : 39 : Clicking the login button
+2023-08-13 00:23:04,014 : INFO : Test_Meditab : test_login_01 : 42 : Checking for confirmation message
+2023-08-13 00:23:04,763 : INFO : Test_Meditab : test_login_01 : 44 : 'Alert': Invalid username or password
+2023-08-13 00:23:05,253 : INFO : Test_Meditab : test_login_01 : 48 : Closing the browser
+2023-08-13 00:23:05,253 : INFO : Test_Meditab : test_login_01 : 49 : 
+Testcase 'verified successfully' for invalid credentials alert
+

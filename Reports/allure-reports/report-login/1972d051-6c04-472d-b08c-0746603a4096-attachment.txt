@@ -1,0 +1,12 @@
+[32mINFO    [0m Test_Meditab:test_01_Login_page.py:24 Testcase 'Initiated' for Meditab login page
+[32mINFO    [0m Test_Meditab:test_01_Login_page.py:26 Opening the browser
+[32mINFO    [0m Test_Meditab:test_01_Login_page.py:30 Fetching the URL
+[32mINFO    [0m Test_Meditab:test_01_Login_page.py:33 Entering the clinic
+[32mINFO    [0m Test_Meditab:test_01_Login_page.py:35 Entering the username
+[32mINFO    [0m Test_Meditab:test_01_Login_page.py:37 Entering the password
+[32mINFO    [0m Test_Meditab:test_01_Login_page.py:39 Clicking the login button
+[32mINFO    [0m Test_Meditab:test_01_Login_page.py:42 Checking for confirmation message
+[32mINFO    [0m Test_Meditab:test_01_Login_page.py:44 'Alert': Invalid username or password
+[32mINFO    [0m Test_Meditab:test_01_Login_page.py:48 Closing the browser
+[32mINFO    [0m Test_Meditab:test_01_Login_page.py:49 
+Testcase 'verified successfully' for invalid credentials alert
